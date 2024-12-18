@@ -1,0 +1,41 @@
+h1,h3{
+    text-align: center;
+    background-color: #194a7a;
+    color: antiquewhite;
+    padding: 8px;
+    margin: 8px  0;
+}
+p{
+    text-align: center;
+    background-color: #a3b7ca;
+    margin: 0;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+    color: #194a7a;
+}
+#APItable{
+    display: flex;
+    justify-content: center;
+}
+table{
+    align-self: center;
+    width: 90%;
+    
+    border-collapse: collapse;  
+}
+th,td{
+    border: 1px solid Black;
+    align-content: center;
+    padding: 10px;
+}
+th{
+    background-color: #d1dbe4;
+}
+tr:hover{
+    background-color: antiquewhite;
+}
